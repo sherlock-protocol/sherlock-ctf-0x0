@@ -1,0 +1,8 @@
+dependencies:
+  - "OpenZeppelin/openzeppelin-contracts-upgradeable@4.3.1"
+  - "OpenZeppelin/openzeppelin-contracts@4.3.1"
+compiler:
+  solc:
+    remappings:
+      - "@ozupgrade=OpenZeppelin/openzeppelin-contracts-upgradeable@4.3.1/contracts/"
+      - "@ozcontracts=OpenZeppelin/openzeppelin-contracts@4.3.1/contracts/"

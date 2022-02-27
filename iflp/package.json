@@ -1,0 +1,15 @@
+{
+  "name": "sherlock-ctf-0x0-iflp",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.4",
+    "@nomiclabs/hardhat-waffle": "^2.0.2",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.3",
+    "hardhat": "^2.8.3"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.0.0",
+    "dotenv": "^14.3.2"
+  }
+}

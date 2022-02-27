@@ -1,0 +1,6 @@
+# sherlock-ctf-0x0-ebaizel
+
+Goerli contract addresses:
+
+Setup 0x5364b5a9e489b495caae4722e9706c817cf54433
+PixelPavel 0x784b7a7a25ed38ef830aefe7985c64f3adf08346

@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-etherscan": "^3.0.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.2",
+    "@typechain/ethers-v5": "^9.0.0",
+    "@typechain/hardhat": "^4.0.0",
+    "@types/mocha": "^9.1.0",
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.0",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.4",
+    "hardhat": "^2.8.4",
+    "hardhat-gas-reporter": "^1.0.7",
+    "install": "^0.13.0",
+    "npm": "^8.5.0",
+    "solidity-coverage": "^0.7.19",
+    "ts-node": "^10.5.0",
+    "typechain": "^7.0.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.0",
+    "etherscan": "^0.2.2"
+  }
+}
