@@ -6,6 +6,8 @@ The top 32 performers on the Secureum bootcamp quiz were selected to participate
 
 Each participant started with a maximum of 8 points (depending on the completeness of their submission). A participant earns 1 point for each contract they are able to hack. Extra points were awarded for creative and unintended hacks of others' contracts. (see `EXTRA.md`)
 
+Check `solves.json` too see how many time each challenge was solved during the contest.
+
 ## Goerli contracts (block `6386399`)
 
 View original guide @ `GUIDE.md`
