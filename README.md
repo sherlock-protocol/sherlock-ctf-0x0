@@ -8,7 +8,7 @@ Each participant started with a maximum of 8 points (depending on the completene
 
 ## Goerli contracts (block `6386399`)
 
-View original guide @ https://github.com/sherlock-protocol/sherlock-ctf-0x0
+View original guide @ `GUIDE.md`
 
 | User             | Setup                                      | Challenge                                  |
 | ---------------- | ------------------------------------------ | ------------------------------------------ |
